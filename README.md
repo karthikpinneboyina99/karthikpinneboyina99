@@ -127,7 +127,15 @@ const karthik = {
 
 ---
 
+## 🔥 Recently Built
+
+<!--START_SECTION:projects-->
+Loading projects...
+<!--END_SECTION:projects-->
+
 <!-- CONTRIBUTION GRAPH -->
+
+
 ## 📊 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikpinneboyina99&bg_color=0d1117&color=58a6ff&line=a371f7&point=3fb950&area=true&hide_border=true)
