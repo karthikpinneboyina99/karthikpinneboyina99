@@ -28,12 +28,9 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push snake to output branch
-        run: |
-          cd dist
-          git init
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b output
-          git add .
-          git commit -m "chore: update snake animation"
-          git push --force "https://${{ secrets.GITHUB_TOKEN }}@github.com/karthikpinneboyina99/karthikpinneboyina99.git" output
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
