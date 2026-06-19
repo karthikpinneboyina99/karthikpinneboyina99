@@ -130,7 +130,11 @@ const karthik = {
 ## 🔥 Recently Built
 
 <!--START_SECTION:projects-->
-Loading projects...
+- [karthikpinneboyina99](https://github.com/karthikpinneboyina99/karthikpinneboyina99)
+- [docker](https://github.com/karthikpinneboyina99/docker)
+- [news_portal](https://github.com/karthikpinneboyina99/news_portal)
+- [assignment-2-StateControlled](https://github.com/karthikpinneboyina99/assignment-2-StateControlled)
+- [Final_project](https://github.com/karthikpinneboyina99/Final_project)
 <!--END_SECTION:projects-->
 
 <!-- CONTRIBUTION GRAPH -->
