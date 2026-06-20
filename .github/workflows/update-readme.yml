@@ -27,7 +27,7 @@ jobs:
           node-version: 20
 
       - name: Regenerate README sections
-        run: node scripts/generate-readme.js
+        run: node generate-readme.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: karthikpinneboyina99
