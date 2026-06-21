@@ -56,7 +56,7 @@
 
 ## ⚙️ Core Stack
 
-> Auto-generated daily from the languages used across my public repos — no manual edits needed.
+> languages used across my public repos 
 
 <!-- TECH-STACK:START -->
 
@@ -72,7 +72,7 @@
 
 ## 🚀 Featured Projects
 
-> Auto-pulled daily from my most-starred / most-recently-active public repos.
+> Projects pulled daily from my most-starred / most-recently-active public repos.
 
 <!-- PROJECTS:START -->
 
