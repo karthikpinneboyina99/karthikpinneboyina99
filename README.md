@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=karthikpinneboyina99+%E2%80%94+Full-Stack+Developer;7+projects+%E2%80%A2+0%E2%98%85+stars+%E2%80%A2+0+followers;Most+active+in+TypeScript;Currently+building%3A+Leaseefy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=karthikpinneboyina99+%E2%80%94+Full-Stack+Developer;9+projects+%E2%80%A2+0%E2%98%85+stars+%E2%80%A2+0+followers;Most+active+in+TypeScript;Currently+building%3A+sportsIq-work-station)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Projects-7-6366f1?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Projects-9-6366f1?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Total_Stars-0-f2cc60?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Followers-0-3fb950?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Top_Language-TypeScript-22d3ee?style=flat-square&labelColor=0d1117" />
@@ -79,6 +79,26 @@
 <table>
   <tr>
     <td width="50%">
+      <h3>sportsIq-work-station</h3>
+      <p>Football + Cricket · Next.js · TypeScript · Tailwind · shadcn/ui · OpenRouter · Multi-Agent AI</p>
+      <p></p>
+      <p><sub>Updated today</sub></p>
+      <a href="https://github.com/karthikpinneboyina99/sportsIq-work-station">
+        <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>Ai_contract_generator</h3>
+      <p>No description yet.</p>
+      <p></p>
+      <p><sub>Updated today</sub></p>
+      <a href="https://github.com/karthikpinneboyina99/Ai_contract_generator">
+        <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>Leaseefy</h3>
       <p>No description yet.</p>
       <p></p>
@@ -91,28 +111,8 @@
       <h3>earth_animation_website</h3>
       <p>No description yet.</p>
       <p><img src="https://img.shields.io/badge/JavaScript-6366f1?style=flat-square&labelColor=21262d" /></p>
-      <p><sub>Updated yesterday</sub></p>
+      <p><sub>Updated 2 days ago</sub></p>
       <a href="https://github.com/karthikpinneboyina99/earth_animation_website">
-        <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Taskforge-</h3>
-      <p>No description yet.</p>
-      <p><img src="https://img.shields.io/badge/TypeScript-6366f1?style=flat-square&labelColor=21262d" /></p>
-      <p><sub>Updated 2 days ago</sub></p>
-      <a href="https://github.com/karthikpinneboyina99/Taskforge-">
-        <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>docker</h3>
-      <p>No description yet.</p>
-      <p><img src="https://img.shields.io/badge/TypeScript-6366f1?style=flat-square&labelColor=21262d" /></p>
-      <p><sub>Updated 2 days ago</sub></p>
-      <a href="https://github.com/karthikpinneboyina99/docker">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
     </td>
@@ -156,7 +156,7 @@
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/karthikpinneboyina99?style=flat-square&color=3fb950&labelColor=0d1117&label=Followers)
 
-<!-- LAST-UPDATED -->*Last auto-updated: 2026-06-22 • 7 active repos scanned*
+<!-- LAST-UPDATED -->*Last auto-updated: 2026-06-23 • 9 active repos scanned*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1e293b,100:0d1117&height=110&section=footer)
 
