@@ -62,7 +62,7 @@
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=ts,js,java&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=ts,js,python,java&theme=dark)
 
 </div>
 
@@ -81,29 +81,29 @@
     <td width="50%">
       <h3>capstone_project</h3>
       <p>AI TRAIDNG WORKFLOW</p>
-      <p></p>
+      <p><img src="https://img.shields.io/badge/Python-6366f1?style=flat-square&labelColor=21262d" /></p>
       <p><sub>Updated today</sub></p>
       <a href="https://github.com/karthikpinneboyina99/capstone_project">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
     </td>
     <td width="50%">
-      <h3>sportsIq-work-station</h3>
-      <p>Football + Cricket · Next.js · TypeScript · Tailwind · shadcn/ui · OpenRouter · Multi-Agent AI</p>
-      <p><img src="https://img.shields.io/badge/TypeScript-6366f1?style=flat-square&labelColor=21262d" /></p>
+      <h3>Ai_contract_generator</h3>
+      <p>No description yet.</p>
+      <p></p>
       <p><sub>Updated today</sub></p>
-      <a href="https://github.com/karthikpinneboyina99/sportsIq-work-station">
+      <a href="https://github.com/karthikpinneboyina99/Ai_contract_generator">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Ai_contract_generator</h3>
-      <p>No description yet.</p>
-      <p></p>
+      <h3>sportsIq-work-station</h3>
+      <p>Football + Cricket · Next.js · TypeScript · Tailwind · shadcn/ui · OpenRouter · Multi-Agent AI</p>
+      <p><img src="https://img.shields.io/badge/TypeScript-6366f1?style=flat-square&labelColor=21262d" /></p>
       <p><sub>Updated yesterday</sub></p>
-      <a href="https://github.com/karthikpinneboyina99/Ai_contract_generator">
+      <a href="https://github.com/karthikpinneboyina99/sportsIq-work-station">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
     </td>
@@ -111,7 +111,7 @@
       <h3>Leaseefy</h3>
       <p>No description yet.</p>
       <p></p>
-      <p><sub>Updated yesterday</sub></p>
+      <p><sub>Updated 2 days ago</sub></p>
       <a href="https://github.com/karthikpinneboyina99/Leaseefy">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
@@ -156,7 +156,7 @@
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/karthikpinneboyina99?style=flat-square&color=3fb950&labelColor=0d1117&label=Followers)
 
-<!-- LAST-UPDATED -->*Last auto-updated: 2026-06-24 • 10 active repos scanned*
+<!-- LAST-UPDATED -->*Last auto-updated: 2026-06-25 • 10 active repos scanned*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1e293b,100:0d1117&height=110&section=footer)
 
