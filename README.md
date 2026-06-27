@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=karthikpinneboyina99+%E2%80%94+Full-Stack+Developer;11+projects+%E2%80%A2+0%E2%98%85+stars+%E2%80%A2+0+followers;Most+active+in+TypeScript;Currently+building%3A+budget_tracker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=karthikpinneboyina99+%E2%80%94+Full-Stack+Developer;11+projects+%E2%80%A2+1%E2%98%85+stars+%E2%80%A2+0+followers;Most+active+in+TypeScript;Currently+building%3A+budget_tracker)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/Projects-11-6366f1?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Total_Stars-0-f2cc60?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Total_Stars-1-f2cc60?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Followers-0-3fb950?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Top_Language-TypeScript-22d3ee?style=flat-square&labelColor=0d1117" />
 
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=ts,js,python,java&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=ts,python,js,java&theme=dark)
 
 </div>
 
@@ -81,7 +81,7 @@
     <td width="50%">
       <h3>budget_tracker</h3>
       <p>tracking the day to day budget  by uploading the bills,pdfs or csv files and getting good insights.</p>
-      <p></p>
+      <p><img src="https://img.shields.io/badge/Python-6366f1?style=flat-square&labelColor=21262d" /> <img src="https://img.shields.io/badge/★_1-f2cc60?style=flat-square&labelColor=21262d" /></p>
       <p><sub>Updated today</sub></p>
       <a href="https://github.com/karthikpinneboyina99/budget_tracker">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
@@ -91,7 +91,7 @@
       <h3>capstone_project</h3>
       <p>AI TRAIDNG WORKFLOW</p>
       <p><img src="https://img.shields.io/badge/Python-6366f1?style=flat-square&labelColor=21262d" /></p>
-      <p><sub>Updated today</sub></p>
+      <p><sub>Updated yesterday</sub></p>
       <a href="https://github.com/karthikpinneboyina99/capstone_project">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
@@ -102,7 +102,7 @@
       <h3>Ai_contract_generator</h3>
       <p>No description yet.</p>
       <p></p>
-      <p><sub>Updated yesterday</sub></p>
+      <p><sub>Updated 2 days ago</sub></p>
       <a href="https://github.com/karthikpinneboyina99/Ai_contract_generator">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
@@ -111,7 +111,7 @@
       <h3>sportsIq-work-station</h3>
       <p>Football + Cricket · Next.js · TypeScript · Tailwind · shadcn/ui · OpenRouter · Multi-Agent AI</p>
       <p><img src="https://img.shields.io/badge/TypeScript-6366f1?style=flat-square&labelColor=21262d" /></p>
-      <p><sub>Updated 2 days ago</sub></p>
+      <p><sub>Updated 3 days ago</sub></p>
       <a href="https://github.com/karthikpinneboyina99/sportsIq-work-station">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
@@ -156,7 +156,7 @@
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/karthikpinneboyina99?style=flat-square&color=3fb950&labelColor=0d1117&label=Followers)
 
-<!-- LAST-UPDATED -->*Last auto-updated: 2026-06-26 • 11 active repos scanned*
+<!-- LAST-UPDATED -->*Last auto-updated: 2026-06-27 • 11 active repos scanned*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1e293b,100:0d1117&height=110&section=footer)
 
