@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=karthik+pinneboyina+%E2%80%94+Full-Stack+Developer;15+projects+%E2%80%A2+1%E2%98%85+stars+%E2%80%A2+0+followers;Most+active+in+Python;Currently+building%3A+churn_calculator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=karthik+pinneboyina+%E2%80%94+Full-Stack+Developer;16+projects+%E2%80%A2+1%E2%98%85+stars+%E2%80%A2+0+followers;Most+active+in+Python;Currently+building%3A+resume_analyser)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Projects-15-6366f1?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Projects-16-6366f1?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Total_Stars-1-f2cc60?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Followers-0-3fb950?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Top_Language-Python-22d3ee?style=flat-square&labelColor=0d1117" />
@@ -82,37 +82,37 @@
       <h3>budget_tracker</h3>
       <p>tracking the day to day budget  by uploading the bills,pdfs or csv files and getting good insights.</p>
       <p><img src="https://img.shields.io/badge/Python-6366f1?style=flat-square&labelColor=21262d" /> <img src="https://img.shields.io/badge/★_1-f2cc60?style=flat-square&labelColor=21262d" /></p>
-      <p><sub>Updated 2 days ago</sub></p>
+      <p><sub>Updated 3 days ago</sub></p>
       <a href="https://github.com/karthikpinneboyina99/budget_tracker">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
     </td>
     <td width="50%">
-      <h3>churn_calculator</h3>
-      <p>No description yet.</p>
+      <h3>resume_analyser</h3>
+      <p>parses a resume pdf and scarapes the job description from the url and uses gpt to give the score out of 100</p>
       <p></p>
       <p><sub>Updated today</sub></p>
-      <a href="https://github.com/karthikpinneboyina99/churn_calculator">
+      <a href="https://github.com/karthikpinneboyina99/resume_analyser">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>ipl-sports-Dashboard</h3>
+      <h3>churn_calculator</h3>
       <p>No description yet.</p>
-      <p><img src="https://img.shields.io/badge/Python-6366f1?style=flat-square&labelColor=21262d" /></p>
+      <p></p>
       <p><sub>Updated yesterday</sub></p>
-      <a href="https://github.com/karthikpinneboyina99/ipl-sports-Dashboard">
+      <a href="https://github.com/karthikpinneboyina99/churn_calculator">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
     </td>
     <td width="50%">
-      <h3>movie-_data_explorer</h3>
-      <p>data analyst project — exploring TMDB movie data with Python</p>
+      <h3>ipl-sports-Dashboard</h3>
+      <p>No description yet.</p>
       <p><img src="https://img.shields.io/badge/Python-6366f1?style=flat-square&labelColor=21262d" /></p>
-      <p><sub>Updated yesterday</sub></p>
-      <a href="https://github.com/karthikpinneboyina99/movie-_data_explorer">
+      <p><sub>Updated 2 days ago</sub></p>
+      <a href="https://github.com/karthikpinneboyina99/ipl-sports-Dashboard">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
     </td>
@@ -156,7 +156,7 @@
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/karthikpinneboyina99?style=flat-square&color=3fb950&labelColor=0d1117&label=Followers)
 
-<!-- LAST-UPDATED -->*Last auto-updated: 2026-06-30 • 15 active repos scanned*
+<!-- LAST-UPDATED -->*Last auto-updated: 2026-07-01 • 16 active repos scanned*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1e293b,100:0d1117&height=110&section=footer)
 
