@@ -91,7 +91,7 @@
       <h3>resume_analyser</h3>
       <p>parses a resume pdf and scarapes the job description from the url and uses gpt to give the score out of 100</p>
       <p></p>
-      <p><sub>Updated 9 days ago</sub></p>
+      <p><sub>Updated 10 days ago</sub></p>
       <a href="https://github.com/karthikpinneboyina99/resume_analyser">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
@@ -102,7 +102,7 @@
       <h3>churn_calculator</h3>
       <p>No description yet.</p>
       <p></p>
-      <p><sub>Updated 10 days ago</sub></p>
+      <p><sub>Updated 11 days ago</sub></p>
       <a href="https://github.com/karthikpinneboyina99/churn_calculator">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
@@ -111,7 +111,7 @@
       <h3>ipl-sports-Dashboard</h3>
       <p>No description yet.</p>
       <p><img src="https://img.shields.io/badge/Python-6366f1?style=flat-square&labelColor=21262d" /></p>
-      <p><sub>Updated 11 days ago</sub></p>
+      <p><sub>Updated 12 days ago</sub></p>
       <a href="https://github.com/karthikpinneboyina99/ipl-sports-Dashboard">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
@@ -156,7 +156,7 @@
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/karthikpinneboyina99?style=flat-square&color=3fb950&labelColor=0d1117&label=Followers)
 
-<!-- LAST-UPDATED -->*Last auto-updated: 2026-07-10 • 16 active repos scanned*
+<!-- LAST-UPDATED -->*Last auto-updated: 2026-07-11 • 16 active repos scanned*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1e293b,100:0d1117&height=110&section=footer)
 
