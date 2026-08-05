@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=karthik+pinneboyina+%E2%80%94+Full-Stack+Developer;18+projects+%E2%80%A2+1%E2%98%85+stars+%E2%80%A2+0+followers;Most+active+in+Python;Currently+building%3A+project_readmes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=karthik+pinneboyina+%E2%80%94+Full-Stack+Developer;19+projects+%E2%80%A2+1%E2%98%85+stars+%E2%80%A2+0+followers;Most+active+in+Python;Currently+building%3A+project_readmes)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Projects-18-6366f1?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Projects-19-6366f1?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Total_Stars-1-f2cc60?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Followers-0-3fb950?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Top_Language-Python-22d3ee?style=flat-square&labelColor=0d1117" />
@@ -91,7 +91,7 @@
       <h3>project_readmes</h3>
       <p>readmes</p>
       <p></p>
-      <p><sub>Updated 17 days ago</sub></p>
+      <p><sub>Updated 18 days ago</sub></p>
       <a href="https://github.com/karthikpinneboyina99/project_readmes">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
@@ -102,17 +102,17 @@
       <h3>n8n-workflows</h3>
       <p>No description yet.</p>
       <p></p>
-      <p><sub>Updated 17 days ago</sub></p>
+      <p><sub>Updated 18 days ago</sub></p>
       <a href="https://github.com/karthikpinneboyina99/n8n-workflows">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
     </td>
     <td width="50%">
-      <h3>resume_analyser</h3>
-      <p>parses a resume pdf and scarapes the job description from the url and uses gpt to give the score out of 100</p>
-      <p></p>
-      <p><sub>Updated 1 mo ago</sub></p>
-      <a href="https://github.com/karthikpinneboyina99/resume_analyser">
+      <h3>moviza</h3>
+      <p>The online streaming platform same like netflix </p>
+      <p><img src="https://img.shields.io/badge/TypeScript-6366f1?style=flat-square&labelColor=21262d" /></p>
+      <p><sub>Updated 18 days ago</sub></p>
+      <a href="https://github.com/karthikpinneboyina99/moviza">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
     </td>
@@ -156,7 +156,7 @@
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/karthikpinneboyina99?style=flat-square&color=3fb950&labelColor=0d1117&label=Followers)
 
-<!-- LAST-UPDATED -->*Last auto-updated: 2026-08-04 • 18 active repos scanned*
+<!-- LAST-UPDATED -->*Last auto-updated: 2026-08-05 • 19 active repos scanned*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1e293b,100:0d1117&height=110&section=footer)
 
