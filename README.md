@@ -82,7 +82,7 @@
       <h3>budget_tracker</h3>
       <p>tracking the day to day budget  by uploading the bills,pdfs or csv files and getting good insights.</p>
       <p><img src="https://img.shields.io/badge/Python-6366f1?style=flat-square&labelColor=21262d" /> <img src="https://img.shields.io/badge/★_1-f2cc60?style=flat-square&labelColor=21262d" /></p>
-      <p><sub>Updated 1 mo ago</sub></p>
+      <p><sub>Updated 2 mo ago</sub></p>
       <a href="https://github.com/karthikpinneboyina99/budget_tracker">
         <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" />
       </a>
@@ -156,7 +156,7 @@
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/karthikpinneboyina99?style=flat-square&color=3fb950&labelColor=0d1117&label=Followers)
 
-<!-- LAST-UPDATED -->*Last auto-updated: 2026-08-26 • 19 active repos scanned*
+<!-- LAST-UPDATED -->*Last auto-updated: 2026-08-27 • 19 active repos scanned*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1e293b,100:0d1117&height=110&section=footer)
 
